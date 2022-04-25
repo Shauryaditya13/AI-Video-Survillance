@@ -21,3 +21,9 @@ body {
     background-color: darkkhaki;
     width: 100%;
 }
+
+canvas {
+    border-radius: 10px;
+    border: 10px solid cyan;
+    box-shadow: 5px 5px 5px 20px royalblue;
+}
